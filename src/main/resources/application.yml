@@ -12,5 +12,5 @@ spring:
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
           clone-on-start: true
-          default-label: main
+          default-label: master
 
